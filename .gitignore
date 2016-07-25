@@ -1,0 +1,9 @@
+demos
+*.~pas
+*.~inc
+*.exe
+*.dbg
+*.o
+*.lps
+*.ppu
+*.compiled
